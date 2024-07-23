@@ -22,7 +22,7 @@ with st.expander("PROJECT DETAILS"):
              'We created my own data set and defined features, some from the literature and some based on manual analysis. '
              'We used requests library to collect data, BeautifulSoup module to parse and extract features. ')
     st.write('The source code and data sets are available in the below Github link:')
-    st.write('_https://github.com/AwesomeAA-01/WebGuardian-AI_')
+    st.write('https://github.com/SasiCherukuri123/Phishing-Detection')
 
     st.subheader('Data set')
     # ----- FOR THE PIE CHART ----- #
